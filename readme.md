@@ -29,7 +29,7 @@
 - [ Overview](#overview)
 - [ Features](#features)
 - [ Repository Structure](#repository-structure)
-- [ Modules](#modules)
+- [ Files](#files)
 - [ Getting Started](#etting-started)
   - [ Installation](#installation)
   - [ Usage](#usage)
@@ -73,7 +73,7 @@ The dbtest project is an open-source PHP web application designed to provide a u
 
 ---
 
-##  Modules
+##  Files
 
 <details open><summary>.</summary>
 
