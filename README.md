@@ -75,7 +75,7 @@ The itemdb project is an open-source PHP web application designed to provide a u
 
 ##  Files
 
-<details open><summary>.</summary>
+<details closed><summary>File Summary</summary>
 
 | File | Summary |
 | --- | --- |
