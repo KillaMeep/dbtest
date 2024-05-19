@@ -7,13 +7,13 @@
 
 <p  align="center">
 
-<h1  align="center">DBTEST</h1>
+<h1  align="center">Item Database</h1>
 
 </p>
 
 <p  align="center">
 
-<em>Explore manufacturers, suppliers, reports-Seamless, responsive experience. or Navigate manufacturing world, reports included-Bootstrap at its best.</em>
+<em>A Seamless, responsive experience.</em>
 
 </p>
 
