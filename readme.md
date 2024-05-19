@@ -166,7 +166,3 @@ Contributions are welcome! Here are several ways you can contribute:
 </details>
 
 ---
-
-[**Return To Top**](#overview)
-
----
