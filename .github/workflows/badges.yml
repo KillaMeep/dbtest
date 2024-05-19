@@ -1,0 +1,17 @@
+name: Dynamic Badges Workflow
+
+on:
+  push:
+    branches:
+      - main  # Adjust the branch name as needed
+  pull_request:
+    branches:
+      - main  # Adjust the branch name as needed
+  workflow_dispatch:  # This allows manual triggering of the workflow
+
+jobs:
+  dynamic_badges_job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dynamic Badges
+        uses: Schneegans/dynamic-badges-action@v1.7.0
