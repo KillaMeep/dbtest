@@ -2,10 +2,7 @@
   <img src="https://camo.githubusercontent.com/67cb92170fa83b15024e74427efece7f7d01c652e92025e199073b7874cdfdcf/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f363239352f363239353431372e706e67" width="100" alt="project-logo">
 </p>
 <p align="center">
-    <h1 align="center">DBTEST</h1>
-</p>
-<p align="center">
-    <em>Explore manufacturers, suppliers, reports-Seamless, responsive experience. or Navigate manufacturing world, reports included-Bootstrap at its best.</em>
+    <h1 align="center">Item Database WebUI</h1>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/KillaMeep/dbtest" alt="license">
@@ -42,7 +39,7 @@
 
 ##  Overview
 
-The dbtest project is an open-source PHP web application designed to provide a user-friendly interface for managing and accessing various data through dynamic pages. Key functionalities include manufacturer and supplier information display via indexed pages, seamless navigation using Bootstrap CSS, and capabilities for auto-reporting item counts via reports.php. This application aims to enhance decision-making by delivering essential data in an engaging and visually appealing manner.
+The dbtest project is an open-source PHP web application designed to provide a user-friendly interface for managing and accessing various data through dynamic pages. Key functionalities include manufacturer and supplier information display via indexed pages, seamless navigation using Bootstrap CSS, and capabilities for auto-reporting item counts, and much more.
 
 ---
 
@@ -82,13 +79,13 @@ The dbtest project is an open-source PHP web application designed to provide a u
 
 | File                                                                                         | Summary                                                                                                                                                                                                                                                                                                                                        |
 | ---                                                                                          | ---                                                                                                                                                                                                                                                                                                                                            |
-| [index.php](https://github.com/KillaMeep/dbtest.git/blob/master/index.php)                   | Index.php serves as the entry point, integrating the navbar (navbar.php) into its frame using JavaScript, providing seamless navigation while adhering to a dark color scheme with Bootstrap CSS.                                                                                                                                              |
-| [manufacturers.php](https://github.com/KillaMeep/dbtest.git/blob/master/manufacturers.php)   | Navigate the Manufacturers page in this PHP project by opening manufacturers.php. This file serves as the entry point for displaying manufacturers' information. It incorporates the Bootstrap CSS framework for styling and includes the navbar.php for site navigation, enhancing user experience.                                           |
+| [index.php](https://github.com/KillaMeep/dbtest.git/blob/master/index.php)                   | Index.php serves as the entry point. |                                                                                                                                          |
+| [manufacturers.php](https://github.com/KillaMeep/dbtest.git/blob/master/manufacturers.php)   | This file serves as the entry point for displaying manufacturers' information. It incorporates the Bootstrap CSS framework for styling and includes the navbar.php for site navigation, enhancing user experience.                                           |
 | [navbar.php](https://github.com/KillaMeep/dbtest.git/blob/master/navbar.php)                 | The navbar.php file is responsible for rendering the top-level navigation menu in the repository. It uses Bootstrap to style the menu and dynamically sets the active tab based on the current PHP script being executed.                                                                                                                      |
-| [suppliers.php](https://github.com/KillaMeep/dbtest.git/blob/master/suppliers.php)           | Create an engaging suppliers page within the dbtest repositorys architecture. The suppliers.php" file serves as the template, integrating the Bootstrap framework with its CSS and JavaScript assets for a visually appealing and responsive layout. Here, developers can build supplier-focused content, ensuring a seamless user experience. |
+| [suppliers.php](https://github.com/KillaMeep/dbtest.git/blob/master/suppliers.php)           | The suppliers.php file serves as a place to find all the suppliers for the items tracked in the DB.  |
 | [reports.php](https://github.com/KillaMeep/dbtest.git/blob/master/reports.php)               | The reports.php file serves as the entry point for accessing various reporting functionalities within the application. By integrating essential data and leveraging included navigation (navbar.php), users can easily explore and analyze necessary reports, enhancing informed decision-making.                                              |
 | [administration.php](https://github.com/KillaMeep/dbtest.git/blob/master/administration.php) | This PHP file sets up the structure for the administration page, including importing Bootstrap styles and integrating the navigation bar. The content area remains empty for custom administrative functions.                                                                                                                                  |
-| [home.php](https://github.com/KillaMeep/dbtest.git/blob/master/home.php)                     | Create an immersive home page experience by utilizing home.php. This file sets up the HTML structure, integrates Bootstrap styles, and includes the navigation bar, welcoming users with a Welcome to the Home Page heading.                                                                                                                   |
+| [home.php](https://github.com/KillaMeep/dbtest.git/blob/master/home.php)                     | A simple home page.                                                                                                                   |
 
 </details>
 
