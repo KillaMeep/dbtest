@@ -128,7 +128,7 @@ The dbtest project is an open-source PHP web application designed to provide a u
 Contributions are welcome! Here are several ways you can contribute:
 
 - **[Report Issues](https://github.com/KillaMeep/dbtest/issues)**: Submit bugs found or log feature requests for the `dbtest` project.
-- **[Submit Pull Requests](https://github.com/KillaMeep/dbtest/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
+- **[Submit Pull Requests](https://github.com/KillaMeep/dbtest/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc)**: Review open PRs, and submit your own PRs.
 
 <details closed>
 <summary>Contribution Guidelines</summary>
