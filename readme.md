@@ -8,7 +8,7 @@
     <em>Explore manufacturers, suppliers, reports-Seamless, responsive experience. or Navigate manufacturing world, reports included-Bootstrap at its best.</em>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/KillaMeep/dbtest?style=flat-square&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
+	<img src="https://img.shields.io/github/license/killameep/dbtest&logoColor=white&color=0080ff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/KillaMeep/dbtest?style=flat-square&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/KillaMeep/dbtest?style=flat-square&color=0080ff" alt="repo-top-language">
 	<img src="https://img.shields.io/github/languages/count/KillaMeep/dbtest?style=flat-square&color=0080ff" alt="repo-language-count">
