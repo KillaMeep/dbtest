@@ -5,10 +5,10 @@
     <h1 align="center">Item Database WebUI</h1>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/KillaMeep/dbtest" alt="license">
-	<img src="https://img.shields.io/github/last-commit/KillaMeep/dbtest?style=flat-square" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/KillaMeep/dbtest" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/KillaMeep/dbtest" alt="repo-language-count">
+	<img src="https://img.shields.io/github/license/KillaMeep/itemdb" alt="license">
+	<img src="https://img.shields.io/github/last-commit/KillaMeep/itemdb?style=flat-square" alt="last-commit">
+	<img src="https://img.shields.io/github/languages/top/KillaMeep/itemdb" alt="repo-top-language">
+	<img src="https://img.shields.io/github/languages/count/KillaMeep/itemdb" alt="repo-language-count">
 	
 <p>
 <p align="center">
@@ -39,7 +39,7 @@
 
 ##  Overview
 
-The dbtest project is an open-source PHP web application designed to provide a user-friendly interface for managing and accessing various data through dynamic pages. Key functionalities include manufacturer and supplier information display via indexed pages, seamless navigation using Bootstrap CSS, and capabilities for auto-reporting item counts, and much more.
+The itemdb project is an open-source PHP web application designed to provide a user-friendly interface for managing and accessing various data through dynamic pages. Key functionalities include manufacturer and supplier information display via indexed pages, seamless navigation using Bootstrap CSS, and capabilities for auto-reporting item counts, and much more.
 
 ---
 
@@ -58,7 +58,7 @@ The dbtest project is an open-source PHP web application designed to provide a u
 ##  Repository Structure
 
 ```sh
-└── dbtest/
+└── itemdb/
     ├── administration.php
     ├── assets
     │   ├── bootstrap.bundle.min.js
@@ -79,13 +79,13 @@ The dbtest project is an open-source PHP web application designed to provide a u
 
 | File | Summary |
 | --- | --- |
-| [index.php](https://github.com/KillaMeep/dbtest/blob/master/index.php)                   | Index.php serves as the entry point. |                                                                                                                                          |
-| [manufacturers.php](https://github.com/KillaMeep/dbtest/blob/master/manufacturers.php)   | This file serves as the entry point for displaying manufacturers' information. It incorporates the Bootstrap CSS framework for styling and includes the navbar.php for site navigation, enhancing user experience.|
-| [navbar.php](https://github.com/KillaMeep/dbtest/blob/master/navbar.php)                 | The navbar.php file is responsible for rendering the top-level navigation menu in the repository. It uses Bootstrap to style the menu and dynamically sets the active tab based on the current PHP script being executed.|
-| [suppliers.php](https://github.com/KillaMeep/dbtest/blob/master/suppliers.php)           | The suppliers.php file serves as a place to find all the suppliers for the items tracked in the DB.|
-| [reports.php](https://github.com/KillaMeep/dbtest/blob/master/reports.php)               | The reports.php file serves as the entry point for accessing various reporting functionalities within the application. By integrating essential data and leveraging included navigation (navbar.php), users can easily explore and analyze necessary reports, enhancing informed decision-making.|
-| [administration.php](https://github.com/KillaMeep/dbtest/blob/master/administration.php) | This PHP file sets up the structure for the administration page, including importing Bootstrap styles and integrating the navigation bar. The content area remains empty for custom administrative functions.|
-| [home.php](https://github.com/KillaMeep/dbtest/blob/master/home.php)                     | A simple home page.|
+| [index.php](https://github.com/KillaMeep/itemdb/blob/master/index.php)                   | Index.php serves as the entry point. |                                                                                                                                          |
+| [manufacturers.php](https://github.com/KillaMeep/itemdb/blob/master/manufacturers.php)   | This file serves as the entry point for displaying manufacturers' information. It incorporates the Bootstrap CSS framework for styling and includes the navbar.php for site navigation, enhancing user experience.|
+| [navbar.php](https://github.com/KillaMeep/itemdb/blob/master/navbar.php)                 | The navbar.php file is responsible for rendering the top-level navigation menu in the repository. It uses Bootstrap to style the menu and dynamically sets the active tab based on the current PHP script being executed.|
+| [suppliers.php](https://github.com/KillaMeep/itemdb/blob/master/suppliers.php)           | The suppliers.php file serves as a place to find all the suppliers for the items tracked in the DB.|
+| [reports.php](https://github.com/KillaMeep/itemdb/blob/master/reports.php)               | The reports.php file serves as the entry point for accessing various reporting functionalities within the application. By integrating essential data and leveraging included navigation (navbar.php), users can easily explore and analyze necessary reports, enhancing informed decision-making.|
+| [administration.php](https://github.com/KillaMeep/itemdb/blob/master/administration.php) | This PHP file sets up the structure for the administration page, including importing Bootstrap styles and integrating the navigation bar. The content area remains empty for custom administrative functions.|
+| [home.php](https://github.com/KillaMeep/itemdb/blob/master/home.php)                     | A simple home page.|
 
 </details>
 
@@ -101,22 +101,22 @@ The dbtest project is an open-source PHP web application designed to provide a u
 
 <h4>From <code>source</code></h4>
 
-> 1. Clone the dbtest repository:
+> 1. Clone the itemdb repository:
 >
 > ```console
-> $ git clone https://github.com/KillaMeep/dbtest.git
+> $ git clone https://github.com/KillaMeep/itemdb.git
 > ```
 >
 > 2. Change to the project directory:
 > ```console
-> $ cd dbtest
+> $ cd itemdb
 > ```
 
 ###  Usage
 
 <h4>From <code>source</code></h4>
 
-> Run dbtest using the command below:
+> Run itemdb using the command below:
 > ```console
 > $ php -S localhost:8080
 > ```
@@ -127,8 +127,8 @@ The dbtest project is an open-source PHP web application designed to provide a u
 
 Contributions are welcome! Here are several ways you can contribute:
 
-- **[Report Issues](https://github.com/KillaMeep/dbtest/issues)**: Submit bugs found or log feature requests for the `dbtest` project.
-- **[Submit Pull Requests](https://github.com/KillaMeep/dbtest/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc)**: Review open PRs, and submit your own PRs.
+- **[Report Issues](https://github.com/KillaMeep/itemdb/issues)**: Submit bugs found or log feature requests for the `itemdb` project.
+- **[Submit Pull Requests](https://github.com/KillaMeep/itemdb/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc)**: Review open PRs, and submit your own PRs.
 
 <details closed>
 <summary>Contribution Guidelines</summary>
@@ -136,7 +136,7 @@ Contributions are welcome! Here are several ways you can contribute:
 1. **Fork the Repository**: Start by forking the project repository to your github account.
 2. **Clone Locally**: Clone the forked repository to your local machine using a git client.
    ```sh
-   git clone https://github.com/KillaMeep/dbtest.git
+   git clone https://github.com/KillaMeep/itemdb.git
    ```
 3. **Create a New Branch**: Always work on a new branch, giving it a descriptive name.
    ```sh
@@ -159,8 +159,8 @@ Contributions are welcome! Here are several ways you can contribute:
 <summary>Contributors</summary>
 <br>
 <p align="center">
-   <a href="https://github.com{/KillaMeep/dbtest./}graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=KillaMeep/dbtest">
+   <a href="https://github.com{/KillaMeep/itemdb./}graphs/contributors">
+      <img src="https://contrib.rocks/image?repo=KillaMeep/itemdb">
    </a>
 </p>
 </details>
