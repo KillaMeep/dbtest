@@ -134,7 +134,7 @@ Contributions are welcome! Here are several ways you can contribute:
 - **[Submit Pull Requests](https://github.com/KillaMeep/dbtest.git/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
 
 <details closed>
-<summary>Contributing Guidelines</summary>
+<summary>Contribution Guidelines</summary>
 
 1. **Fork the Repository**: Start by forking the project repository to your github account.
 2. **Clone Locally**: Clone the forked repository to your local machine using a git client.
