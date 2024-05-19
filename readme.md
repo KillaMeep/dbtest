@@ -30,7 +30,7 @@
 - [ Features](#features)
 - [ Repository Structure](#repository-structure)
 - [ Files](#files)
-- [ Getting Started](#etting-started)
+- [ Getting Started](#getting-started)
   - [ Installation](#installation)
   - [ Usage](#usage)
 - [ Contributing](#contributing)
