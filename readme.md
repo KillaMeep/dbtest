@@ -18,6 +18,7 @@
 </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat-square&logo=PHP&logoColor=white" alt="PHP">
+	<img src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat-square&logo=HTML&logoColor=white" alt="HTML">
 </p>
 
 <br><!-- TABLE OF CONTENTS -->
