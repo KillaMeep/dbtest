@@ -54,7 +54,7 @@ The dbtest project is an open-source PHP web application designed to provide a u
 | 🔌 | **Integrations**  | Bootstrap CSS/JavaScript for frontend styling, navbar, and responsive design. No other notable integrations or dependencies mentioned in the codebase. |
 | 🧩 | **Modularity**    | Modularized with separate files for controllers, views, models, and a clear separation of concerns between frontend (HTML/CSS) and backend (PHP). |
 | ⚡️  | **Performance**   | Performance depends on the content and complexity of data being processed. |
-| 📦 | **Dependencies**  | Depends on 'php', and includes bootstrap. |
+| 📦 | **Dependencies**  | Depends on php, and includes bootstrap. |
 
 ---
 
