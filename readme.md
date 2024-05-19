@@ -18,7 +18,7 @@
 </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat-square&logo=PHP&logoColor=white" alt="PHP">
-	<img src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat-square&logo=HTML&logoColor=white" alt="HTML">
+	![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 </p>
 
 <br><!-- TABLE OF CONTENTS -->
@@ -32,17 +32,13 @@
 - [ Getting Started](#-getting-started)
   - [ Installation](#-installation)
   - [ Usage](#-usage)
-  - [ Tests](#-tests)
-- [ Project Roadmap](#-project-roadmap)
 - [ Contributing](#-contributing)
-- [ License](#-license)
-- [ Acknowledgments](#-acknowledgments)
 </details>
 <hr>
 
 ##  Overview
 
-The dbtest project is an open-source PHP web application designed to provide a user-friendly interface for managing and accessing various data through dynamic pages. Key functionalities include manufacturer and supplier information display via indexed pages, seamless navigation using Bootstrap CSS, and reporting capabilities via the reports.php entry point. This application aims to enhance decision-making by delivering essential data in an engaging and visually appealing manner. With an empty administration.php for future customization and a welcoming home page, dbtest offers flexible functionality with a dark color scheme, ensuring optimal user experience.
+The dbtest project is an open-source PHP web application designed to provide a user-friendly interface for managing and accessing various data through dynamic pages. Key functionalities include manufacturer and supplier information display via indexed pages, seamless navigation using Bootstrap CSS, and capabilities for auto-reporting item counts via reports.php. This application aims to enhance decision-making by delivering essential data in an engaging and visually appealing manner.
 
 ---
 
@@ -51,14 +47,10 @@ The dbtest project is an open-source PHP web application designed to provide a u
 |   | Feature         | Description                                                |
 |----|-------------------|---------------------------------------------------------------|
 | ⚙️  | **Architecture** | A simple PHP project utilizing the MVC (Model-View-Controller) design pattern with Bootstrap for frontend style and navigation. |
-| 🔩 | **Code Quality**   | Code is well-organized with clear naming conventions. PHP CS Fixer is used for code style consistency. |
-| 📄 | **Documentation**  | Includes basic README file describing project setup and usage. |
 | 🔌 | **Integrations**  | Bootstrap CSS/JavaScript for frontend styling, navbar, and responsive design. No other notable integrations or dependencies mentioned in the codebase. |
 | 🧩 | **Modularity**    | Modularized with separate files for controllers, views, models, and a clear separation of concerns between frontend (HTML/CSS) and backend (PHP). |
-| 🧪 | **Testing**       | No specific testing frameworks mentioned. Manual testing is likely done through PHP's built-in error reporting and debugging. |
-| ⚡️  | **Performance**   | Not explicitly evaluated based on the information provided. Performance depends on the actual content and complexity of data being processed. |
-| 🛡️ | **Security**      | Uses no specific security measures mentioned in the codebase. Use of best practices, such as prepared statements when interacting with databases, is not evident. |
-| 📦 | **Dependencies**  | Depends solely on 'php'. Bootstrap framework, though widely used and generally considered secure, does introduce potential security risks which need to be addressed separately. |
+| ⚡️  | **Performance**   | Performance depends on the content and complexity of data being processed. |
+| 📦 | **Dependencies**  | Depends on 'php', and includes bootstrap. |
 
 ---
 
@@ -102,7 +94,7 @@ The dbtest project is an open-source PHP web application designed to provide a u
 
 **System Requirements:**
 
-* **PHP**: `version x.y.z`
+* **PHP**: `any`
 
 ###  Installation
 
@@ -118,11 +110,6 @@ The dbtest project is an open-source PHP web application designed to provide a u
 > ```console
 > $ cd dbtest
 > ```
->
-> 3. Install the dependencies:
-> ```console
-> $ composer install
-> ```
 
 ###  Usage
 
@@ -130,23 +117,8 @@ The dbtest project is an open-source PHP web application designed to provide a u
 
 > Run dbtest using the command below:
 > ```console
-> $ php main.php
+> $ php -S localhost:8080
 > ```
-
-###  Tests
-
-> Run the test suite using the command below:
-> ```console
-> $ vendor/bin/phpunit
-> ```
-
----
-
-##  Project Roadmap
-
-- [X] `► INSERT-TASK-1`
-- [ ] `► INSERT-TASK-2`
-- [ ] `► ...`
 
 ---
 
