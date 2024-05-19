@@ -12,6 +12,7 @@
 	<img src="https://img.shields.io/github/last-commit/KillaMeep/dbtest?style=flat-square&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/KillaMeep/dbtest?style=flat-square&color=0080ff" alt="repo-top-language">
 	<img src="https://img.shields.io/github/languages/count/KillaMeep/dbtest?style=flat-square&color=0080ff" alt="repo-language-count">
+	
 <p>
 <p align="center">
 		<em>Developed with the software and tools below.</em>
@@ -19,6 +20,9 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
+	<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+ 	<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+	
 </p>
 
 <br><!-- TABLE OF CONTENTS -->
