@@ -158,7 +158,7 @@ Contributions are welcome! Here are several ways you can contribute:
 8. **Review**: Once your PR is reviewed and approved, it will be merged into the main branch. Congratulations on your contribution!
 </details>
 
-<details open>
+<details closed>
 <summary>Contributor Graph</summary>
 <br>
 <p align="center">
