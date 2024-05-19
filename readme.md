@@ -29,14 +29,14 @@
 <details>
   <summary>Table of Contents</summary><br>
 
-- [ Overview](#-overview)
-- [ Features](#-features)
-- [ Repository Structure](#-repository-structure)
-- [ Modules](#-modules)
-- [ Getting Started](#-getting-started)
-  - [ Installation](#-installation)
-  - [ Usage](#-usage)
-- [ Contributing](#-contributing)
+- [ Overview](#overview)
+- [ Features](#features)
+- [ Repository Structure](#repository-structure)
+- [ Modules](#modules)
+- [ Getting Started](#etting-started)
+  - [ Installation](#installation)
+  - [ Usage](#usage)
+- [ Contributing](#contributing)
 </details>
 <hr>
 
@@ -78,7 +78,7 @@ The dbtest project is an open-source PHP web application designed to provide a u
 
 ##  Modules
 
-<details closed><summary>.</summary>
+<details open><summary>.</summary>
 
 | File                                                                                         | Summary                                                                                                                                                                                                                                                                                                                                        |
 | ---                                                                                          | ---                                                                                                                                                                                                                                                                                                                                            |
@@ -132,7 +132,6 @@ Contributions are welcome! Here are several ways you can contribute:
 
 - **[Report Issues](https://github.com/KillaMeep/dbtest.git/issues)**: Submit bugs found or log feature requests for the `dbtest` project.
 - **[Submit Pull Requests](https://github.com/KillaMeep/dbtest.git/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
-- **[Join the Discussions](https://github.com/KillaMeep/dbtest.git/discussions)**: Share your insights, provide feedback, or ask questions.
 
 <details closed>
 <summary>Contributing Guidelines</summary>
@@ -159,28 +158,18 @@ Contributions are welcome! Here are several ways you can contribute:
 8. **Review**: Once your PR is reviewed and approved, it will be merged into the main branch. Congratulations on your contribution!
 </details>
 
-<details closed>
+<details open>
 <summary>Contributor Graph</summary>
 <br>
 <p align="center">
-   <a href="https://github.com{/KillaMeep/dbtest.git/}graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=KillaMeep/dbtest.git">
+   <a href="https://github.com{/KillaMeep/dbtest./}graphs/contributors">
+      <img src="https://contrib.rocks/image?repo=KillaMeep/dbtest">
    </a>
 </p>
 </details>
 
 ---
 
-##  License
-
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
-
----
-
-##  Acknowledgments
-
-- List any resources, contributors, inspiration, etc. here.
-
-[**Return**](#-overview)
+[**Return**](#overview)
 
 ---
