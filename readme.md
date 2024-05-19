@@ -156,7 +156,7 @@ Contributions are welcome! Here are several ways you can contribute:
 </details>
 
 <details closed>
-<summary>Contributor Graph</summary>
+<summary>Contributors</summary>
 <br>
 <p align="center">
    <a href="https://github.com{/KillaMeep/dbtest./}graphs/contributors">
