@@ -23,7 +23,7 @@
 
 <img  src="https://img.shields.io/github/last-commit/KillaMeep/dbtest.git?style=flat-square&logo=git&logoColor=white&color=0080ff"  alt="last-commit">
 
-<img  src="https://img.shields.io/github/languages/top/KillaMeep/dbtest.git?style=flat-square&color=0080ff"  alt="repo-top-language">
+<img  src="https://img.shields.io/github/languages/top/KillaMeep/dbtest/main?style=flat-square&color=0080ff"  alt="repo-top-language">
 
 <img  src="https://img.shields.io/github/languages/count/KillaMeep/dbtest.git?style=flat-square&color=0080ff"  alt="repo-language-count">
 
